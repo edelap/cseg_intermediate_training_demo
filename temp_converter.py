@@ -62,6 +62,8 @@ Functions will include:
 def fahrenheit_to_celcius(fahrenheit):
     return (fahrenheit - 32) * 5/9
 
+def celcius_to_fahrenheit(celcius):
+    return (celcius *9/5) + 32
 
 def place_holder():
     pass
